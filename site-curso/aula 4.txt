@@ -1,0 +1,88 @@
+Imersão Dev 7ª Edição
+Aula 02: Desenvolva suas Habilidades com um Jogo de Adivinhação
+
+Ícone de play
+Aula 01
+
+
+Mergulhe em JavaScript com um Conversor de Moedas
+
+Ícone de play
+Aula 02
+
+
+Desenvolva suas Habilidades com um Jogo de Adivinhação
+
+Ícone de play
+Aula 03
+
+
+Explore Estruturas de Dados Criando um Catálogo de Filmes
+
+Ícone de play
+Aula 04
+
+
+Aprimore a Interatividade Adicionando Filmes com JavaScript
+
+DESENVOLVA SUAS HABILIDADES COM UM JOGO DE ADIVINHAÇÃO
+PARTICIPE E VÁ MAIS FUNDO
+Boas-vindas à segunda aula da Imersão Dev 7!
+
+Introdução
+Na segunda aula da Imersão Dev, vamos mergulhar na criação de um jogo de adivinhação. Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
+
+Durante esta aula, você vai:
+
+Realizar o fork do projeto com o template inicial;
+Realizar testes interativos usando prompt;
+Criar a lógica do jogo utilizando estruturas condicionais como if e else;
+Utilizar a função Math.random() do JavaScript para gerar números aleatórios.
+Função: var numeroSecreto = parseInt(Math.random() * 1001);
+Fique até o final da aula, vamos utilizar a IA generativa para fazer o mesmo projeto em outras linguagens e ter alguns insights de como podemos usar o ChatGPT e o Bard para ser um poderoso aliado no dia a dia.
+
+Link do projeto base:
+Para começar, acesse o projeto base aqui. Certifique-se de fazer um ‘fork’ deste projeto para a sua conta e marcar as hashtags #imersaodev e #alura.
+
+Desafios desta aula!
+Que tal enfrentar alguns desafios adicionais? Experimente:
+
+Adicionar um limite de tentativas para que a pessoa possa adivinhar o número e, ao final, exiba a resposta correta;
+Quando a pessoa errar, forneça uma dica informando se o número chutado é maior ou menor que o número secreto;
+Aprofunde-se e aprenda a diferença entre os operadores == e ===.
+Resolução dos desafios:
+Quer conferir como nossos instrutores e monitores resolveram os desafios apresentados nas aulas? Acesse aqui.
+
+Lembre-se, não existe uma única maneira de resolver os desafios, e o Gui Lima demonstrará diversas abordagens alternativas aqui.
+
+Links importantes para você acompanhar a aula:
+Repositório do código final da aula 02
+Playlist Scuba Dev no Youtube
+Guia exclusivo da Imersão Dev 7
+ChatGPT
+Google Bard
+Mergulhe mais profundo:
+Aprofunde-se nos seguintes tópicos:
+
+Para te ajudar na sua jornada de aprendizado, a Alura criou o TechGuide , que tem o intuito de direcionaras pessoas estudantes com as principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
+Strict equality
+Saiba mais sobre a função Math.random() na documentação aqui.
+Explore operadores em JavaScript com este artigo aqui.
+Como compartilhar seu CodePen:
+Compartilhar seu projeto é fácil:
+
+Clique em "Settings" no canto superior direito;
+Selecione "Pen Details" (Detalhes do Projeto);
+Dê um nome ao seu projeto no campo "Pen Title";
+Forneça detalhes sobre o projeto, como sua funcionalidade e objetivo, no campo "Pen Description";
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev e #alura;
+Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+Divulgue seu projeto
+Mostre o seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a Alura (@AluraOnline). Vamos adorar ver os seus projetos e acompanhar a sua evolução! Lembre-se de utilizar a hashtag #ImersaoDev7 para que o seu projeto alcance ainda mais pessoas.
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
+
+QUEM SÃO OS MERGULHADORES?
+INSTRUTORES E INSTRUTORAS DA ALURA NESSA IMERSÃO
+Paulo Silveira
+Guilherme Lima

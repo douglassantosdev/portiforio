@@ -1,0 +1,100 @@
+Imersão Dev 7ª Edição
+Aula 01: Mergulhe em JavaScript com um Conversor de Moedas
+
+Ícone de play
+Aula 01
+
+
+Mergulhe em JavaScript com um Conversor de Moedas
+
+Ícone de play
+Aula 02
+
+
+Desenvolva suas Habilidades com um Jogo de Adivinhação
+
+Ícone de play
+Aula 03
+
+
+Explore Estruturas de Dados Criando um Catálogo de Filmes
+
+Ícone de play
+Aula 04
+
+
+Aprimore a Interatividade Adicionando Filmes com JavaScript
+
+MERGULHE EM JAVASCRIPT COM UM CONVERSOR DE MOEDAS
+PARTICIPE E VÁ MAIS FUNDO
+Boas-vindas! Chegou a hora de mergulhar na Imersão Dev 7 e dar um novo passo na sua carreira!
+
+Introdução
+Nesta aula, nos concentraremos nas ferramentas essenciais de qualquer linguagem de programação, incluindo o uso de variáveis, operadores, arredondamento de números e interação com o console.
+
+Nesta aula, você vai:
+
+Criar uma conta no CodePen;
+Compreender as diferenças entre HTML, CSS e JavaScript;
+Explorar o uso de variáveis, manipulação de valores e a memória do computador;
+Aprender sobre tipos de variáveis, como texto e números inteiros;
+Fixar a quantidade de casas decimais com a função toFixed().
+Fique até o final da aula e descubra insights e orientações exclusivas para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
+
+Link do projeto base:
+Acesse o projeto base aqui. Certifique-se de fazer um ‘fork’ deste projeto para a sua conta e utilizar as hashtags #imersaodev e #alura.
+
+Desafios desta aula!
+Deseja ir além? Experimente estes desafios:
+
+Adicionar outras moedas para converter;
+Criar um conversor de quilômetros para anos-luz e descobrir o tempo necessário para viajar de uma estrela para outra;
+Desenvolver um conversor de temperaturas entre Fahrenheit, Kelvin e Celsius;
+Inserir uma linha ao projeto para exibir o valor em Bitcoin.
+Resolução dos desafios:
+Quer ver como nossos instrutores e monitores resolveram os desafios apresentados nas aulas? Acesse aqui.
+
+Lembre-se, não existe apenas uma maneira de resolver os desafios, e o Gui Lima mostrará diferentes abordagens aqui.
+
+Links importantes para você acompanhar a aula:
+Codepen - editor de código online
+Operadores booleanos
+Repositório do código final da aula 01
+Guia exclusivo da Imersão Dev 7!
+ChatGPT
+Mergulhe mais profundo:
+Aprofunde-se nos seguintes tópicos:
+
+Para te ajudar na sua jornada de aprendizado, a Alura criou o TechGuide, que tem o intuito de direcionaras pessoas estudantes com as principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
+JavaScript segundo a documentação
+Primeiros passos na programação
+O que é JavaScript?
+Evolução do JavaScript
+Como compartilhar seu CodePen:
+Compartilhar seu projeto é fácil:
+
+Clique em "Settings" no canto superior direito;
+Selecione "Pen Details" (Detalhes do Projeto);
+Dê um nome ao seu projeto no campo "Pen Title";
+Forneça detalhes sobre o projeto, como sua funcionalidade e objetivo, no campo "Pen Description";
+Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev e #alura;
+Agora é só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+Divulgue seu projeto
+Mostre o seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a Alura (@AluraOnline). Vamos adorar ver os seus projetos e acompanhar a sua evolução! Lembre-se de utilizar a hashtag #ImersaoDev7 para que o seu projeto alcance ainda mais pessoas.
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
+
+QUEM SÃO OS MERGULHADORES?
+INSTRUTORES E INSTRUTORAS DA ALURA NESSA IMERSÃO
+Paulo Silveira
+Guilherme Lima
+Rafaella Ballerini
+Instrutora front-end @ Alura
+LIVES DESTA IMERSÃO!
+REVEJA TUDO QUE ACONTECEU DURANTE AS LIVES
+Live ThumbnailLIVE NO AR
+Live de abertura + Tire suas dúvidas
+Live ThumbnailLIVE NO AR
+Construindo uma Carreira Sólida em Programação
+Live ThumbnailLIVE NO AR
+Projetos que inspiram e próximos desafios
